@@ -1,6 +1,6 @@
 # IMT FIL Haskell
 
-Dans le cadre du cours d'introduction au langage _Haskell_ donné à l'IMT, des fiches de révisions ont pu être réalisées. Celles-ci sont associées aux objectifs suivants :
+Dans le cadre du cours d'introduction au langage _Haskell_ donné à l'[IMT](https://www.imt-atlantique.fr/fr/formation/ingenieur-par-apprentissage/ingenierie-logicielle), des fiches de révisions ont pu être réalisées. Celles-ci sont associées aux objectifs suivants :
 
 - Introduire les concepts généraux d'Haskell => [Haskell-Général.md](./revision_sheet/Haskell-Général.md)
 - Enumérer les fonctions abordées en travaux pratiques => [Haskell-Fonctions-TP-Sommaire.md](./revision_sheet/Haskell-Fonctions-TP-Sommaire.md)
