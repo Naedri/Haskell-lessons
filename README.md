@@ -1,4 +1,4 @@
-# IMT FIL Haskell
+# IMT Haskell
 
 Dans le cadre du cours d'introduction au langage _Haskell_ donné à l'[IMT](https://www.imt-atlantique.fr/fr/formation/ingenieur-par-apprentissage/ingenierie-logicielle), des fiches de révisions ont pu être réalisées. Celles-ci sont associées aux objectifs suivants :
 
