@@ -9,4 +9,4 @@ Dans le cadre du cours d'introduction au langage _Haskell_ donné à l'[IMT](htt
 
 Afin de mesurer le niveau attendu des compétences de ce cours, un sujet d'examen a pu être ajouté :
 
-- [Exam-2022](./exam/questions.hs) pour lequel certaines de mes réponses sont disponibles [Answer-2022](./exam/answer.hs).
+- [Exam-2021](./exam/questions.hs) pour lequel certaines de mes réponses sont disponibles [Answer-2021](./exam/answer.hs).
