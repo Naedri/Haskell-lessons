@@ -16,7 +16,8 @@ VS code extension :
 
 ## Ressources
 
-[Real World Haskell](https://darcs.realworldhaskell.org/static/00book.pdf)
+- [Real World Haskell](http://book.realworldhaskell.org/)
+- [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
 
 ## Introduction
 
